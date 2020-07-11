@@ -24,6 +24,3 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/jesiljose"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jesiljose/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
-
-[@jesiljose](https://twitter.com/jesiljose) &nbsp;&nbsp;&nbsp;
-[@jesiljose](https://www.linkedin.com/in/jesiljose/)
