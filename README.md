@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## My name is Jesil, and I am a developer (atleast I think so). I also write sometimes. I have a little blog you can check out at jesilsnotes.com
+
 <!--
 **the-provost/the-provost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
